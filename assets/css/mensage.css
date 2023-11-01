@@ -1,0 +1,35 @@
+.message-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .message {
+    background-color: #e9ecef;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .message.text-right {
+    background-color: #007bff;
+    color: #fff;
+  }
+  .message.text-right p {
+    margin-bottom: 0;
+  }
+
+
+  .reply-container {
+    display: flex;
+    margin-top: 10px;
+  }
+  .reply-input {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+
+  .response {
+    background-color: #f1f1f1; 
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 5px; 
+  }

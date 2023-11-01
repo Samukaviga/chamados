@@ -1,0 +1,24 @@
+.logo {
+    width: 150px;
+}
+
+.font-nav {
+    color: white;
+}
+
+.logo-nome {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.bk {
+    background-color: green;
+}
+
+.container-mensagem {
+    margin: 0 auto;
+    background-color: aquamarine;
+    height: 100vh;
+    width: 50%;
+}

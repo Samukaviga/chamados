@@ -1,0 +1,25 @@
+body {
+    background: #b0becc;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    }
+
+.box {
+    width: 300px;
+    height: 400px;
+    background: #fff;
+    border-radius: 6px;
+}
+
+.btn {
+    margin-top: 20px;
+}

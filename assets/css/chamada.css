@@ -1,0 +1,14 @@
+.titulo-chamada {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.botao-relatorio{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5%;
+}
+
+.bg-tabela{
+    background: rgb(131, 165, 165);
+}
